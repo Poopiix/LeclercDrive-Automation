@@ -45,15 +45,13 @@ EMAIL_RECEIVER=votre_email_reception@domaine.com
 2. Le fichier liste.txt (Liste de courses)
 Créez un fichier nommé liste.txt. Ajoutez un article par ligne.
 
-*Exemple*
+**Exemple**
+
 list.txt
 
 liquide vaisselle
-
 riz Basmati Bio
-
 pattes macaroni Turini
-
 mouchoir en papier
 
 
