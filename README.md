@@ -24,7 +24,7 @@ Assurez-vous d'avoir installé [Python 3.8+](https://www.python.org/downloads/) 
 
 2. Installez le navigateur Chromium pour Playwright :
    ```bash
-playwright install chromium
+   playwright install chromium
 
 ⚙️ Configuration
 Avant de lancer le script, vous devez créer deux fichiers à la racine du projet, au même niveau que leclercdrive.py.
