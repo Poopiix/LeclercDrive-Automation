@@ -46,6 +46,7 @@ EMAIL_RECEIVER=votre_email_reception@domaine.com
 Créez un fichier nommé liste.txt. Ajoutez un article par ligne.
 
 *Exemple*
+
 liquide vaisselle
 riz Basmati Bio
 pattes macaroni Turini
